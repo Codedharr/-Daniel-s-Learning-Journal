@@ -29,6 +29,7 @@ print(f'La suma de los numeros pares es: {suma}')
 # Calcula su factorial usando un bucle while.
 # El factorial de un número entero positivo es el producto de todos los números del 1 al ese número. Por ejemplo, el factorial de 5
 # 5! = 5 x 4 x 3 x 2 x 1 = 120.
+
 print("\nEjercicio 3:")
 
 numero_factorial = int(input('Ingrese un número para encontrar su factorial:  '))
